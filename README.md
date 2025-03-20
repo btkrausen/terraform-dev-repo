@@ -1,2 +1,3 @@
-# terraform-dev-repo
-Terraform managed dev repository
+# Terraform dev Repository
+
+Managed by Terraform.
